@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "learHashMap",
+            "request": "launch",
+            "mainClass": "map.learHashMap",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PracticeArrayList",
+            "request": "launch",
+            "mainClass": "list.PracticeArrayList",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "linkedListBasic",
+            "request": "launch",
+            "mainClass": "list.linkedListBasic",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "practiceLinkedList",
+            "request": "launch",
+            "mainClass": "list.practiceLinkedList",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "practiceStack",
+            "request": "launch",
+            "mainClass": "list.practiceStack",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "advanceHashSet",
+            "request": "launch",
+            "mainClass": "set.advanceHashSet",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "learnHashSet",
+            "request": "launch",
+            "mainClass": "set.learnHashSet",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "learnLinkedHashSet",
+            "request": "launch",
+            "mainClass": "set.learnLinkedHashSet",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "learnTreeSet",
+            "request": "launch",
+            "mainClass": "set.learnTreeSet",
+            "projectName": "collectionsJava_a05b2b35"
+        }
+    ]
+}
