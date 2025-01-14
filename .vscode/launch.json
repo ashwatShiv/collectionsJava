@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
+            "name": "learnTreeMap",
+            "request": "launch",
+            "mainClass": "map.learnTreeMap",
+            "projectName": "collectionsJava_a05b2b35"
+        },
+        {
+            "type": "java",
             "name": "learHashMap",
             "request": "launch",
             "mainClass": "map.learHashMap",
